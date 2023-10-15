@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Engineer
 
 #### Technical Skills: Python, SQL, AWS, DBT
 
